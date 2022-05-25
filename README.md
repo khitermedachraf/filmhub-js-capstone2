@@ -1,12 +1,10 @@
   ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name : [Your Project Name]. 
+# Project Name : FilmHub HD. 
+## Microverse Second Capstone Project
+> This educational project is to build our own web application based on an external API. We selected an API that provides data about a topic that we like and built the web app around it. The web app will have 2 user interfaces.
 
-> An app to manage tasks. A user can add, delete and edit a task and mark it as completed, It uses simple GUI and relies on DOM manipulation in pure JS and using local storage.
-
-> In this project, I will build a simple HTML list of To Do tasks. The list will be styled according to the specifications listed later in this lesson. This simple web page will be built using webpack and served by a webpack dev server.
-
-[![Capstone intro](https://img.youtube.com/vi/AcUd-_Yjjqg/0.jpg)](https://www.youtube.com/watch?v=AcUd-_Yjjqg)
+[![Capstone intro]([https://img.youtube.com/vi/AcUd-_Yjjqg/0.jpg)](https://www.youtube.com/watch?v=AcUd-_Yjjqg](https://user-images.githubusercontent.com/98527559/169324147-2d46aaf5-ed06-4e70-a8c3-acbcc8c28d63.png))
 
 ## Built With ⚒
 
