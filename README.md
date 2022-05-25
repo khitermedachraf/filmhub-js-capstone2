@@ -3,8 +3,9 @@
 # Project Name : FilmHub HD. 
 ## Microverse Second Capstone Project
 > This educational project is to build our own web application based on an external API. We selected an API that provides data about a topic that we like and built the web app around it. The web app will have 2 user interfaces.
+<br>
 
-[![Capstone intro]([https://img.youtube.com/vi/AcUd-_Yjjqg/0.jpg)](https://www.youtube.com/watch?v=AcUd-_Yjjqg](https://user-images.githubusercontent.com/98527559/169324147-2d46aaf5-ed06-4e70-a8c3-acbcc8c28d63.png))
+![Capstone intro](./website_mockup.png)
 
 ## Built With ⚒
 
