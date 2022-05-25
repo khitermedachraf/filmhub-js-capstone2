@@ -86,12 +86,16 @@ npm install --save-dev eslint@7.x eslint-config-airbnb-base@14.x eslint-plugin-i
  ```
 npm install
 ```
+ - For the run of the webpack dev server use:
+ ```
+npm start
+```
 
 ### Usage 🎯
 
-- For anyone who wants to Use **webpack to bundle JavaScript.**
-- For anyone who wants to practice html5, css3 and or vanilla JavaScript
-- For anyone who wants to create his own Web devlopment course site.
+- For anyone who wants to Use **webpack to bundle JavaScript, SCSS**
+- For anyone who wants to practice html5, css3, JavaScript/ES6 and consuming **APIs**
+- For anyone who wants to create his own FilmHub Website.
 
 ### Run tests 🧪
 
